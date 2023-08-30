@@ -1,4 +1,4 @@
-package collections.operacoesBasicas;
+package collections.lists.operacoesBasicas;
 
 public class Item {
   String nome;
