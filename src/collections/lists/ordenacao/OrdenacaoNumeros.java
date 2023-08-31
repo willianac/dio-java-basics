@@ -34,7 +34,7 @@ public class OrdenacaoNumeros {
     on.adicionarNumero(5);
     on.adicionarNumero(1);
     on.adicionarNumero(32);
-    List<Integer> listaOrdenada = on.ordenarAscendente();
+    //List<Integer> listaOrdenada = on.ordenarAscendente();
     List<Integer> listaDesc = on.ordenarDescendente();
     System.out.println(listaDesc);
   }
